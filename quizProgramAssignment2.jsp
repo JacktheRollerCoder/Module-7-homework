@@ -7,7 +7,7 @@
 </head>
 <body>
     <h2>Programming Assignment 2 - Addition Quiz</h2>
-    <form method="post" action="result.jsp">
+    <form method="post" action="resultProgramAssignment2.jsp">
         <%
             // Generate random addition questions
             int numberOfQuestions = 5; // Adjust the number of questions
