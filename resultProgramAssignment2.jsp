@@ -39,6 +39,6 @@
             session.removeAttribute("answer" + i);
         }
     %>
-    <a href="quiz.jsp">Try Again</a>
+    <a href="quizProgramAssignment2.jsp">Try Again</a>
 </body>
 </html>
